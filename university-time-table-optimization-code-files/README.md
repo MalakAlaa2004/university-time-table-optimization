@@ -17,6 +17,8 @@ university_timetabling/
 │
 ├── optimization/                   # Optimization algorithms
 │   ├── particle_swarm_optimization.py                      # Particle Swarm Optimization logic
+|   |──ga_memetic
+|   |──ga_cultural
 │   ├── genetic_algorithm.py        # Genetic Algorithm implementation
 │   ├── hybrid_optimizer.py         # Combines GA & PSO for scheduling
 │   ├── fitness.py                  # Evaluates timetable effectiveness
