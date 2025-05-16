@@ -11,6 +11,7 @@ this project is done in contribution with my teammates and tasks was assigned as
 |--->simple genetic algorithm 
 | ---->GA memetic
 | --->GA cultural 
+|--->hybrid GA + SA
 |--->documente test result
 # farha
 |--->gui
