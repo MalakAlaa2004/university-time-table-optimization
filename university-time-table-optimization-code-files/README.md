@@ -6,7 +6,7 @@ This project focuses on **Adaptive University Timetabling Optimization** using a
 ## Project Structure
 ```bash
 university_timetabling/
-│── main.py                         # Main script to run the optimization
+│── gui.py                         # Main script to run the optimization
 │── config.py                       # Configuration settings (parameters, constraints)
 │
 ├── models/                         # Core data models
@@ -72,7 +72,7 @@ The **fitness function** ensures optimized scheduling:
 ### **Run the Optimization**
 Execute the following command to generate optimized timetables:
 ```bash
-python main.py
+python gui.py
  ```
 
  ### **Dependencies**
