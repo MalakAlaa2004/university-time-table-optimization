@@ -1,7 +1,7 @@
 # Adaptive University Timetabling Optimization Using Hybrid GA + PSO
 
 ## Overview
-This project focuses on **Adaptive University Timetabling Optimization** using a hybrid approach combining **Genetic Algorithm (GA)** and **Particle Swarm Optimization (PSO)**. The goal is to generate efficient university schedules that **minimize conflicts, optimize resource allocation, and improve student/instructor satisfaction**.
+This project focuses on **Adaptive University Timetabling Optimization** using a hybrid approach combining **Genetic Algorithm (GA)** and **genetic algorithm variation like memetic and cultural** **simulated annealing algorithm**  **artificial bee clony ABC algorithm** **Particle Swarm Optimization (PSO)**. The goal is to generate efficient university schedules that **minimize conflicts, optimize resource allocation, and improve student/instructor satisfaction**.
 
 ## Project Structure
 ```bash
