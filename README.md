@@ -15,6 +15,8 @@ this project is done in contribution with my teammates and tasks was assigned as
 |--->documente test result
 # farha
 |--->gui
+|--->simple genetic algorithm
+|--->ABC algorithm
 |--->hybrid PSO+ SA
 |--->documente test result
 # bassmala & rawda
