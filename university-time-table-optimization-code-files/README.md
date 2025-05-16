@@ -16,10 +16,15 @@ university_timetabling/
 │   ├── room.py                     # Defines the Room class
 │
 ├── optimization/                   # Optimization algorithms
-│   ├── particle_swarm_optimization.py                      # Particle Swarm Optimization logic
-|   |──ga_memetic
-|   |──ga_cultural
-│   ├── genetic_algorithm.py        # Genetic Algorithm implementation
+│   ├── lbest_pso.py                      # Particle Swarm Optimization logic
+│   ├── gbest_pso.py  
+|   |── genetic_memetic_algorithm
+|   |── genetic_cultural_algorithm
+│   ├── abc_algorihm.py
+│   ├── hybrid_ga_pso.py
+│   ├── hybrid_gpso_sa.py
+│   ├── simulated_annealing.py    
+│   ├── simple_genetic_algorithm.py        # Genetic Algorithm implementation
 │   ├── hybrid_optimizer.py         # Combines GA & PSO for scheduling
 │   ├── fitness.py                  # Evaluates timetable effectiveness
 │
