@@ -50,22 +50,6 @@ Example Encoding:
 [ [Course1, Timeslot3, Room2, InstructorA, {StudentSet1}], [Course2, Timeslot1, Room4, InstructorB, {StudentSet2}], ... ]
  ```
 
-## Optimization Techniques
-
-### **Particle Swarm Optimization (PSO)**
-- Particles represent possible schedules.
-- Adjusts positions based on **personal best** and **global best**.
-- Quickly refines solutions for optimal scheduling.
-
-### **Genetic Algorithm (GA)**
-- Uses **selection, crossover, and mutation** to evolve timetables.
-- Ensures diversity to avoid local optima.
-- Adapts dynamically to scheduling constraints.
-
-### **Hybrid Approach**
-- GA **explores** solutions broadly.
-- PSO **fine-tunes** the best schedules.
-- A hybrid optimizer ensures **adaptability to real-time changes**.
 
 ## Fitness Function
 The **fitness function** ensures optimized scheduling:
