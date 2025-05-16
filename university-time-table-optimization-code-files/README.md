@@ -7,13 +7,6 @@ This project focuses on **Adaptive University Timetabling Optimization** using a
 ```bash
 university_timetabling/
 │── gui.py                         # Main script to run the optimization
-│── config.py                       # Configuration settings (parameters, constraints)
-│
-├── models/                         # Core data models
-│   ├── course.py                   # Defines the Course class
-│   ├── student.py                  # Defines the Student class
-│   ├── instructor.py               # Defines the Instructor class
-│   ├── room.py                     # Defines the Room class
 │
 ├── optimization/                   # Optimization algorithms
 │   ├── lbest_pso.py                      # Particle Swarm Optimization logic
