@@ -15,9 +15,9 @@ this project is done in contribution with my teammates and tasks was assigned as
 |--->documente test result
 # farha
 |--->gui
-|--->hybrid PCO+ SA
+|--->hybrid PSO+ SA
 |--->documente test result
 # bassmala & rawda
-|--->PCO algorithm
-|--->hybrid PCO+GA
-| --->document pco +hybrid 
+|--->PSO algorithm
+|--->hybrid PSO+GA
+| --->document pso +hybrid 
