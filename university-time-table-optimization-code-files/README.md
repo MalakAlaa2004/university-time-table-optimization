@@ -72,7 +72,7 @@ The **fitness function** ensures optimized scheduling:
 ### **Run the Optimization**
 Execute the following command to generate optimized timetables:
 ```bash
-python gui.py
+streamlit run gui.py
  ```
 
  ### **Dependencies**
