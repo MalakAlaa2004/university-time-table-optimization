@@ -76,5 +76,8 @@ streamlit run gui.py
  ### **Dependencies**
  Before running the project, install the required Python packages:
  ```bash
-pip install numpy pandas matplotlib pip install streamlit
+pip install numpy pandas matplotlib 
+ ```
+```bash
+pip install streamlit
  ```
